@@ -1,1 +1,1 @@
-# Cria-o-de-Banco-de-Dados-utilizando-script-sql
+# Banco-de-Dados-utilizando-script-sql
