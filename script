@@ -1,0 +1,48 @@
+
+CREATE DATABASE atividade;
+
+CREATE TABLE professores (
+nome VARCHAR(100),
+sobrenome VARCHAR(100),
+idade INTEGER
+);
+
+CREATE TABLE disciplinas(
+nome VARCHAR(100)
+);
+
+CREATE TABLE aluno(
+nome VARCHAR (100),
+sobrenome VARCHAR (100)
+);
+
+CREATE TABLE escola(
+nome VARCHAR(100),
+endereco VARCHAR(225)
+);
+
+CREATE TABLE turmas(
+nome VARCHAR(10)
+);
+
+CREATE TABLE jogo(
+nome VARCHAR(100)
+);
+
+CREATE TABLE carro(
+nome VARCHAR(10),
+marca VARCHAR(10),
+ano INT
+);
+
+CREATE TABLE tenis(
+marca VARCHAR(10)
+);
+
+CREATE TABLE esporte(
+nome(10)
+);
+
+CREATE TABLE time(
+nome VARCHAR(50)
+);
